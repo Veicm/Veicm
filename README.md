@@ -1,7 +1,6 @@
 # About Me
 
-You're properly wondering "Who is this random guy, who have his own Website in 2025?"
-... Well I'm way to paranoid to write something personal in the internet but I will tell you that much:
+Well I'm way to paranoid to write something personal in the internet but I will tell you that much:
 1. I love everything about and with IT
 2. I wish to become a professional pen-tester or software developer
 
