@@ -1,3 +1,7 @@
+[![Discord](https://img.shields.io/discord/1328775976632717322?style=plastic&logo=discord&color=%235865F2)](https://discord.gg/2EVDtVZbPY)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Veicm_?style=plastic&logo=reddit&color=%23FF4500)](https://www.reddit.com/user/Veicm_/)
+
+
 # About Me
 
 Well I'm way to paranoid to write something personal in the internet but I will tell you that much:
