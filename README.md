@@ -7,7 +7,9 @@ Well I'm way to paranoid to write something personal in the internet but I will 
 1. I love everything about and with IT
 2. I wish to become a professional pen-tester or software developer
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=veicm&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ![Veicm's Stats](https://github-readme-stats.vercel.app/api?username=Veicm&theme=react&show_icons=true&hide_border=true&count_private=false)
 ![Veicm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veicm&theme=react&show_icons=true&hide_border=true&layout=compact)
+
 
 Stats creaded with [GitHub stats](https://gh-stats-gen.vercel.app/).
