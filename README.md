@@ -22,11 +22,11 @@ I'm a software developer with a keen interest in GUI applications and robotics. 
 
 ## GitHub Stats
 
-![Veicm's Stats](https://github-readme-stats.vercel.app/api?username=Veicm&theme=react&show_icons=true&hide_border=true&count_private=false)
+![Veicm's Stats](https://github-readme-stats.vercel.app/api?username=Veicm&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=veicm&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=veicm&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Veicm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veicm&theme=react&show_icons=true&hide_border=true&layout=compact)
+![Veicm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veicm&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 ## Connect with Me
 
