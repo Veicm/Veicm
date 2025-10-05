@@ -30,6 +30,4 @@ I'm a software developer with a keen interest in GUI applications and robotics. 
 
 ## Connect with Me
 
-[Discord](https://discord.gg/2EVDtVZbPY)
-
 Mail: <veicm.development@gmx.de>
