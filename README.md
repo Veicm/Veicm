@@ -9,11 +9,11 @@
 
 ## Hi there! 👋
 
-I'm **Veicm**, a passionate developer based in **Germany**. I love creating applications that enhance user experience and solve real-world problems.
+I'm **Veicm**, a programming hobbyist based in **Germany**. I love creating applications that enhance user experience and solve real-world problems.
 
 ## About Me
 
-I'm a software developer with a keen interest in GUI applications and robotics. I enjoy working with Python and developing innovative solutions. Currently, I'm open to new opportunities and collaborations. Feel free to reach out!
+I'm a software development enthusiast with a keen interest in desktop applications and robotics. I enjoy working with Python and developing innovative solutions, especially in the backend. Currently, I'm open to new opportunities and collaborations. Feel free to reach out!
 
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,arch,linux)](https://skillicons.dev)
