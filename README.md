@@ -25,7 +25,6 @@ I'm a software development enthusiast with a keen interest in desktop applicatio
 
 ![Veicm's Stats](https://github-readme-stats.vercel.app/api?username=Veicm&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
 
-![GitHub statistics](assets/github-stats.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=veicm&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Veicm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veicm&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
