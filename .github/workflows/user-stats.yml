@@ -1,0 +1,26 @@
+name: Generate GitHub Statistics
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          user: Veicm
+          output-file: assets/github-stats.svg
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update GitHub statistics"
+          add: "assets/github-stats.svg"
